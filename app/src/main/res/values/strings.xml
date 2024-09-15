@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Body Mass App</string>
+    <string name="bmi_calculator_title">Body Mass Index (BMI) Calculator</string>
+    <string name="enter_height">Enter height in meters (e.g. 1.75)</string>
+    <string name="enter_weight">Enter weight in kilograms</string>
+    <string name="bmi_result">Your BMI is: %.2f</string>
+    <string name="body_mass_index_bmi_calculator">Body Mass Index (BMI) Calculator</string>
+    <string name="enter_height_in_meters_e_g_1_75">Enter height in meters (e.g. 1.75)</string>
+    <string name="enter_weight_in_kilograms">Enter weight in kilograms</string>
+    <string name="your_bmi_is_2f">Your BMI is: %.2f</string>
+</resources>
